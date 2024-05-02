@@ -11131,7 +11131,7 @@ h1.page-title + .tag-cloud-list {
 #page-header.not-top-img {
   margin-bottom: 10px;
   height: 60px;
-  background: 0;
+  background: rgba(255,255,255,0.5);
 }
 #page-header.not-top-img #nav #menus .menus_item:hover > a {
   background: var(--anzhiyu-main);
