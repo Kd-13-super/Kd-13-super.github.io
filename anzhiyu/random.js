@@ -1,3 +1,3 @@
-var posts=["2024/05/03/Mybatis注解查询/","2024/04/29/hello-world/","2024/05/02/hexo初步搭建完成/"];function toRandomPost(){
+var posts=["2024/05/03/Mybatis注解查询/","2024/04/29/hello-world/","2024/05/02/hexo初步搭建完成/","2024/05/06/控制反转和依赖注入/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
